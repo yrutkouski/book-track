@@ -15,6 +15,18 @@
     {
       "id": 4,
       "title": "The Great Gatsby"
+    },
+    {
+      "id": 5,
+      "title": "One Hundred Years of Solitude"
+    },
+    {
+      "id": 6,
+      "title": "Moby Dick"
+    },
+    {
+      "id": 7,
+      "title": "War and Peace"
     }
   ]
 }
