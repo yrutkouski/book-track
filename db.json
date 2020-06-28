@@ -2,31 +2,38 @@
   "books": [
     {
       "id": 1,
-      "title": "In Search of Lost Time"
+      "title": "In Search of Lost Time",
+      "url": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
     },
     {
       "id": 2,
-      "title": "Ulysses"
+      "title": "Ulysses",
+      "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)"
     },
     {
       "id": 3,
-      "title": "Don Quixote"
+      "title": "Don Quixote",
+      "url": "https://en.wikipedia.org/wiki/Don_Quixote"
     },
     {
       "id": 4,
-      "title": "The Great Gatsby"
+      "title": "The Great Gatsby",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     },
     {
       "id": 5,
-      "title": "One Hundred Years of Solitude"
+      "title": "One Hundred Years of Solitude",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
     },
     {
       "id": 6,
-      "title": "Moby Dick"
+      "title": "Moby Dick",
+      "url": "https://en.wikipedia.org/wiki/Moby-Dick"
     },
     {
       "id": 7,
-      "title": "War and Peace"
+      "title": "War and Peace",
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace"
     }
   ]
 }
